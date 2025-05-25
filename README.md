@@ -19,8 +19,11 @@ Total Customers: 56K
 📊 Visual Components
 Sales by Country
 Horizontal bar chart showing top-performing countries:
+
 United States: $7.9M
+
 Australia: $7.4M
+
 United Kingdom, Germany, France, and Canada follow.
 
 Yearly Sales Trend
