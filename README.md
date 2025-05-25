@@ -17,7 +17,9 @@ Total Orders: 25K
 Total Customers: 56K
 
 📊 Visual Components
+
 Sales by Country
+
 Horizontal bar chart showing top-performing countries:
 
 United States: $7.9M
@@ -27,21 +29,30 @@ Australia: $7.4M
 United Kingdom, Germany, France, and Canada follow.
 
 Yearly Sales Trend
+
 Line chart comparing actual vs. projected growth from 2020–2023.
+
 Notable increases from 6.4M in 2020 to 9.3M in 2021.
 
 Top 5 Products
+
 Highlights the highest grossing products:
+
 Mountain Bikes in different colors and sizes, each generating over $1.17M.
 
+
 Yearly Sales KPI
+
 Current year: $9.19M
+
 Target: $2.95M
 
 Performance: +211.07% (Goal exceeded significantly)
 
 Yearly Profit KPI
+
 Current year: $3.89M
+
 Target: $2.95M
 
 Performance: +31.7% above target
