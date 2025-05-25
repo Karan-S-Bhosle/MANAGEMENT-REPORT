@@ -7,9 +7,13 @@ Whether you're a business analyst, executive, or operations manager, this report
 🌍 Overview
 🔧 Features
 🔹 Key Metrics
+
 Total Sales: $24.91M
+
 Total Profit: $10.46M
+
 Total Orders: 25K
+
 Total Customers: 56K
 
 📊 Visual Components
